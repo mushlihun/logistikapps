@@ -1,6 +1,5 @@
 # Manufacture Apps
-Web apps using php 8 laravel
-
+Web apps management industry stock, export, and import with level user using php 8 laravel.
 ## Development
 You had to following these step below for developing this application:
 1. Clone this repository.
@@ -58,12 +57,12 @@ You had to following these step below for developing this application:
     php artisan serve
     ```
 8. Initialize the apps
-    This app need a few initial setup to make it works. To setting up, first, open your browser and go to `localhost/initialize-app`. then, follow the instruction to initial setup.
+    This app need a few initial setup to make it works. To setting up, first, open your browser and go to `localhost/logistikapps`. then, follow the instruction to initial setup.
 9. Done
     Congratulations‼, this App is ready for development. You can use credential below to login into the apps:
     
     ```
-    email     : lihun@yahoo.co.id
+    email     : lihunmush@yahoo.co.id
     password  : lihun123
     ```
 
